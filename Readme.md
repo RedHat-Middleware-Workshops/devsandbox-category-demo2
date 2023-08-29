@@ -25,9 +25,10 @@ To run the lab you're interested in, follow the links from the table below:
 |:----------------|:-------------------------------------------:|:-----------------:|
 | Camel X - Lab1  | [preview](docs/labs/camel1/walkthrough.adoc)| https://developers.redhat.com/pending-to-update-url
 | Camel X - Lab2  | [preview](docs/labs/camel2/walkthrough.adoc)| https://developers.redhat.com/pending-to-update-url
+| Camel X - Lab3  | [preview](docs/labs/camel3/walkthrough.adoc)| https://developers.redhat.com/pending-to-update-url
 
 > **Note**<br>
-Individual Labs (exercises) in this repository may be supported by their own article in _Red Hat Developers_. Update the table above accordingly. If an exercise has no associated article, simply leave emtpy or mark it as `does not have article`.
+Individual Labs (exercises) in this repository may be supported by their own article in _Red Hat Developers_. Update the table above accordingly. If an exercise has no associated article, simply leave empty or mark it as `does not have article`.
 
 <br/>
 
